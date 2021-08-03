@@ -1,4 +1,7 @@
 {
     "files.autoSave": "afterDelay",
-    "files.autoSaveDelay": 150
+    "files.autoSaveDelay": 150,
+    "cSpell.words": [
+        "eenwyk"
+    ]
 }

@@ -1,0 +1,10 @@
+{
+  "name": "live-coding-playground",
+  "version": "0.1.2",
+  "description": "Live coding playground for any language.",
+  "main": "playground.py",
+  "repository": "https://github.com/joelvaneenwyk/live-coding-playground.git",
+  "author": "Joel Van Eenwyk <joel.vaneenwyk@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
